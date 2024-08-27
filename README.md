@@ -98,8 +98,8 @@ The analysis results in a transformed dataset that is ready for machine learning
 
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/yourusername/credit-card-default-prediction.git
-    cd credit-card-default-prediction
+    git clone https://github.com/yourusername/CreditCard_Default_Prediction.git
+    cd CreditCard_Default_Prediction
     ```
 
 2. **Run the Jupyter Notebook**:
